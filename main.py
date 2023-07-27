@@ -123,8 +123,8 @@ class WakaInput:
     """WakaReadme Input Env Variables."""
 
     # constants
-    prefix_length: int = 16
-    graph_length: int = 25
+    prefix_length: int = 10
+    graph_length: int = 18
 
     # mapped environment variables
     # # required
